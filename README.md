@@ -7,4 +7,4 @@
 * three
 
 
-![image](https://www.guru99.com/images/steve-campbell.jpg)
+![image]()
